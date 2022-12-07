@@ -1,0 +1,37 @@
+body{
+    background-image: url("camelios.jpg");
+    color: snow;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif ;
+}
+.titulo{
+    color: black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.titulos{
+    color: black;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+button{
+    background-color: chocolate;
+    color: beige;
+    text-align: center;
+    padding: 5px;
+}
+.camellos{
+    background-color: rgb(42, 42, 42);
+    color: rgb(242, 250, 25);
+    text-align: center;
+    text-size-adjust: 20px;
+    width: 20%;
+padding: 12px 20px;
+margin: 8px 0;
+border: 1px solid rgb(255, 255, 255);
+border-radius: 14px;
+font-size: 18px;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+.num1{
+    background-color: bisque;
+    color: chocolate;
+}
